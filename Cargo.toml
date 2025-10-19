@@ -4,11 +4,11 @@ name = "netlink-packet-core"
 version = "0.7.0"
 edition = "2018"
 
-homepage = "https://github.com/rust-netlink/netlink-packet-core"
+homepage = "https://github.com/butlergroup/netlink-packet-core"
 keywords = ["netlink", "linux"]
 license = "MIT"
 readme = "README.md"
-repository = "https://github.com/rust-netlink/netlink-packet-core"
+repository = "https://github.com/butlergroup/netlink-packet-core"
 description = "netlink packet types"
 
 [dependencies]
